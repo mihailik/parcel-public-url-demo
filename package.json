@@ -1,0 +1,11 @@
+{
+  "name": "parcel-public-url-demo",
+  "private":true,
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --public-url ./",
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
