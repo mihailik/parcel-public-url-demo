@@ -3,7 +3,7 @@
   "private":true,
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html --public-url ./",
+    "start": "parcel index.html --public-url ./"
   },
   "devDependencies": {
     "parcel": "^2.8.3"
